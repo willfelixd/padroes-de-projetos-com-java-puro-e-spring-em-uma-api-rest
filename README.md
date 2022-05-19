@@ -29,30 +29,30 @@
   
   <li><strong>Padrões Criacionais:</strong> Abstract Factory, Builder, Factory Method, Prototype, Singleton.</li>
   <li><strong>Padrões Comportamentais:</strong> Chain of Responsibility, Iterator, Observer, Strategy, Template Method.</li>
-  <li><strong>Padrões Estruturais:</strong> Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy.</li>
+  <li><strong>Padrões Estruturais:</strong> Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy.</li></br>
   
   <h3 align="center">Padrão Criacional - Singleton</h3>
 
   <p align="center">
-  <img width="220" height="220" src="https://github.com/willfelixd/banco-digital-com-java-e-poo/blob/main/assets/money-cash.gif">
+  <img width="347" height="147" src="https://github.com/willfelixd/padroes-de-projetos-com-java-puro-e-spring-em-uma-api-rest/blob/main/assets/Singleton.png">
   </p>
   <p align="center">
   Permite a criação de uma única instância de uma classe e fornece um modo para recuperá-la.
-  </p>
+  </p></br>
   
   <h3 align="center">Padrão Comportamental - Strategy</h3>
 
   <p align="center">
-  <img width="220" height="220" src="https://github.com/willfelixd/banco-digital-com-java-e-poo/blob/main/assets/money-cash.gif">
+  <img width="462" height="308" src="https://github.com/willfelixd/padroes-de-projetos-com-java-puro-e-spring-em-uma-api-rest/blob/main/assets/Strategy.png">
   </p>
   <p align="center">
   Simplifica a variação de algoritmos para a resolução de um mesmo problema.
-  </p>
+  </p></br>
   
   <h3 align="center">Padrão Estrutural - Facade</h3>
 
   <p align="center">
-  <img width="220" height="220" src="https://github.com/willfelixd/banco-digital-com-java-e-poo/blob/main/assets/money-cash.gif">
+  <img width="372" height="320" src="https://github.com/willfelixd/padroes-de-projetos-com-java-puro-e-spring-em-uma-api-rest/blob/main/assets/Facade.png">
   </p>
   <p align="center">
   Prove uma interface que reduza a complexidade nas integrações com subsistemas.
